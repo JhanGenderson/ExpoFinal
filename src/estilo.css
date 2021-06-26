@@ -1,0 +1,21 @@
+*{
+    font-family:'Spartan',sans-serif;
+}
+
+.card-img-top{
+    height: 240px;
+    object-fit: revert;
+}
+
+/* .navbar{
+    background-color: #5EAE53 !important
+} */
+
+.card:hover{
+    background-color: #F49B3F;
+    
+}
+
+.nav-link:hover{
+    background-color: #F49B3F;
+}
